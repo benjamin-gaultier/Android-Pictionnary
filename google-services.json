@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "987754840627",
+    "firebase_url": "https://pictolinis.firebaseio.com",
+    "project_id": "pictolinis",
+    "storage_bucket": "pictolinis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987754840627:android:e7dd280f00a73d25",
+        "android_client_info": {
+          "package_name": "com.example.benjamin.googlefirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987754840627-8khmhcqdv22g1jj63uveh8f4vni82eap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlNCLRQaHbIOkMYYuSm2NrcHWajC9qhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987754840627:android:01c97770e21cd2a2",
+        "android_client_info": {
+          "package_name": "com.example.benjamin.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987754840627-8khmhcqdv22g1jj63uveh8f4vni82eap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlNCLRQaHbIOkMYYuSm2NrcHWajC9qhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
